@@ -1,7 +1,7 @@
 module.exports = [
   {
     item_name: "Income",
-    amount: 10000,
+    amount: 2000,
     date: "2023-01-01",
     from: "Employer",
     category: "Work",
